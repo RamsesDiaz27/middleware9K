@@ -1,0 +1,7 @@
+/* Agrega estilos para centrar el botón y establecer un ancho máximo */
+.btn-center {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 300px; /* Ajusta el valor según tus necesidades */
+}
