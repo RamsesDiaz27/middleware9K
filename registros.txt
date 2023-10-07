@@ -1,0 +1,7 @@
+Usuario: ADMINISTRADOR, Fecha y hora: 2023-10-05 08:09:28, Datos del alumno: Nombre: Ramses, Apellidos: Gordillo, Edad: 22, Número: 9616549401, Correo: ramsesdiaz@gmail.com
+Usuario: ADMINISTRADOR, Fecha y hora: 2023-10-05 08:10:53, Datos del alumno: Nombre: Ramses, Apellidos: Gordillo, Edad: 22, Número: 9616549401, Correo: ramsesdiaz@gmail.com
+Usuario: ADMINISTRADOR, Fecha y hora: 2023-10-05 08:25:00, Datos del alumno: Nombre: Fernanda, Apellidos: Espinosa, Edad: 21, Número: 961234567, Correo: fer@gmail.com
+Usuario: ADMINISTRADOR, Fecha y hora: 2023-10-07 07:22:01, Datos del alumno: Nombre: Raúl, Apellidos: Hernandez, Edad: 25, Número: 9611234567, Correo: raulhdz@gmail.com
+Usuario: ADMINISTRADOR, Fecha y hora: 2023-10-07 07:31:04, Datos del alumno: Nombre: Hernan, Apellidos: Lopez, Edad: 17, Número: 9611234567, Correo: hernan@hotmail.com
+Usuario: ADMINISTRADOR, Fecha y hora: 2023-10-07 07:33:53, Datos del alumno: Nombre: María, Apellidos: Espinosa, Edad: 23, Número: 961234567, Correo: mariaesp@gmail.com
+Usuario: ADMINISTRADOR, Fecha y hora: 2023-10-07 07:37:30, Datos del alumno: Nombre: Luis, Apellidos: Suarez, Edad: 29, Número: 9611234567, Correo: luis@gmail.com
